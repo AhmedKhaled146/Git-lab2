@@ -2,4 +2,4 @@
 
 hi ya regala what will we do?
 
---testing for resolving conflict v2
+--trying to resolve the conflict
